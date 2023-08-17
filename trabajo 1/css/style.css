@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 1%; 
+    font-size: 40px;
+}
+.numberInput{
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+    padding: 1%;
+    font-size: 30px;
+    margin-bottom: 1%;
+    color: white;
+    width: 100%;
+}
+main{
+    background-color: crimson;
+    width: 100%;
+
+}
+p {
+    font-size: 20px;
+    color: white;
+    width: 50%;
+}
